@@ -1,0 +1,4 @@
+cd desktop/Plotly_workshop
+python plotly_workshop.py
+OR
+python plotly_workshop_complete.py
