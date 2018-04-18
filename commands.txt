@@ -1,4 +1,4 @@
-cd desktop/Plotly_workshop
-python plotly_workshop.py
+cd desktop/Plotly-with-Python-Intro-Workshop-master
+python plotly_workshop_blank.py
 OR
-python plotly_workshop_complete.py
+python plotly_workshop.py
