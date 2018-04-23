@@ -1,4 +1,7 @@
+To get to the folder
 cd desktop/Plotly-with-Python-Intro-Workshop-master
+If following the online video tutorials and you renamed the folder use cd desktop/Plotly_workshop.py
+To run the code:
 python plotly_workshop_blank.py
 OR
 python plotly_workshop.py
