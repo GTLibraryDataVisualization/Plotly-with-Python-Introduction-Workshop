@@ -1,11 +1,12 @@
 import csv
 import numpy as np
-import plotly.plotly as py
+import chart_studio.plotly as py
 import plotly.graph_objs as go
-import plotly
+import chart_studio
 import pandas as pd
-plotly.tools.set_credentials_file(username='Fake.Username',api_key='55555')
+chart_studio.tools.set_credentials_file(username='Fake.Username',api_key='55555')
 csv_file = "univ_reduced.csv"
+#df is out pandas dataframe
 df = pd.read_csv(csv_file)
 df = df[df.SAT_AVG_ALL.notnull()]
 df = df[df.INSTNM.notnull()]
