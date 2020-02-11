@@ -33,12 +33,19 @@ the Jupyter notebook file contains my explanations as well as the code itself
                 conda install numpy
                 conda install plotly 
 From there you should be almost ready to run your script.
-5. Create a plotly account and retrieve your username and API key from settings.
-6. navagate to the folder using the first command in commands.txt
-7. type "jupyter notebook" into the commandline
+
+5. Create a plotly account and retrieve your username and API key from settings. 
+
+6. navagate to the folder using the first command in commands.txt 
+
+7. type "jupyter notebook" into the commandline 
+
 8. This should open a web browser, with a file navagator
+
 9. Open the file 
+
 10. Edit and replace the sample username and API key with your own
+
 11. you should now be able to run the jupyter notebook successfully
 
 ![sample graph](univ_vis.png)
