@@ -6,9 +6,11 @@ Here are the steps to do so
 1.  Make sure you have python 3.X installed onto your machine and it can be run through the command line
 2. Download the materials and save them in a folder on your desktop called plotly_workshop
 2. make sure you have pandas, numpy, and plotly installed.  This can be done with the commands: 
-pip install pandas,
-pip install numpy,
-pip install plotly.  
+
+        pip install pandas
+        pip install numpy
+        pip install plotly  
+        
 from there you should be almost ready to run your script.
 3. Create a plotly account and retrieve your username and API key from settings.
 4. Edit plotly_workshop and replace the sample username and API key with your own
