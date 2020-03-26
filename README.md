@@ -31,10 +31,10 @@ the Jupyter notebook file contains my explanations as well as the code itself
 3. Make sure you install jupyter notebook for python 3.  This is most commonly done by installing the latest distribution of annaconda. (this can be easily googled)
 4. make sure you have pandas, numpy, and plotly installed, using annaconda.  This can be done with the command: 
 
-                conda install pandas
-                conda install numpy
-                conda install plotly 
-                conda install chart_studio
+        conda install pandas
+        conda install numpy
+        conda install plotly 
+        conda install chart_studio
 
 From there you should be almost ready to run your script.
 
