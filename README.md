@@ -10,6 +10,8 @@ Here are the steps to do so
         pip install pandas
         pip install numpy
         pip install plotly  
+        pip install chart_studio
+
         
 From there you should be almost ready to run your script.
 
@@ -32,6 +34,8 @@ the Jupyter notebook file contains my explanations as well as the code itself
                 conda install pandas
                 conda install numpy
                 conda install plotly 
+                conda install chart_studio
+
 From there you should be almost ready to run your script.
 
 5. Create a plotly account and retrieve your username and API key from settings. 
