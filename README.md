@@ -53,3 +53,4 @@ From there you should be almost ready to run your script.
 11. you should now be able to run the jupyter notebook successfully
 
 ![sample graph](univ_vis.png)
+
