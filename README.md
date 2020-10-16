@@ -10,7 +10,7 @@ Here are the steps to do so
         pip install pandas
         pip install numpy
         pip install plotly  
-        pip install chart_studio
+        pip install chart-studio
 
         
 From there you should be almost ready to run your script.
@@ -34,7 +34,7 @@ the Jupyter notebook file contains my explanations as well as the code itself
         conda install pandas
         conda install numpy
         conda install plotly 
-        conda install chart_studio
+        conda install chart-studio
 
 From there you should be almost ready to run your script.
 
