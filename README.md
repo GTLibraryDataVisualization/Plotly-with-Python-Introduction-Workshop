@@ -1,4 +1,7 @@
 # Plotly-with-Python-Introductory-Workshop
+
+After this workshop, we would appreciate your input on how your workshop experience is and how we can do better here: https://docs.google.com/forms/d/e/1FAIpQLScpN3Leq765IihESOpakWJgj4MqdtR_jf9GXtlyqrMGA7nYqg/viewform?usp=sf_link
+
 Using Plotly API for python in order to create a 3D scatter plot
 Here I will explain the contents of this workbook, and how to run each file
 The preferred and easiest way to run the file is using plotly_workshop.py
